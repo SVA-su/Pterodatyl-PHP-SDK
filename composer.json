@@ -5,6 +5,11 @@
     "require": {
         "guzzlehttp/guzzle": "^7.5"
     },
+    "autoload": {
+        "psr-4": {
+            "Pterodactyl-PHP-SDK\\": "src/"
+        }
+    },
     "license": "MIT",
     "minimum-stability": "stable"
 }
