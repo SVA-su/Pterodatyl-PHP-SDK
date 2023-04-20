@@ -7,7 +7,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Pterodactyl-PHP-SDK\\": "src/"
+            "SVAsu\\Pterodactyl-PHP-SDK\\": "src/"
         }
     },
     "license": "MIT",
