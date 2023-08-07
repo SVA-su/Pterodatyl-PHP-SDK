@@ -6,10 +6,8 @@
         "guzzlehttp/guzzle": "^7.5"
     },
     "autoload": {
-        "psr-4": {
-            "SVAsu\\PterodactylPhpSDK\\": "src/"
-        }
-    },
+        "classmap": ["src/"]
+    }
     "license": "MIT",
     "minimum-stability": "stable"
 }
